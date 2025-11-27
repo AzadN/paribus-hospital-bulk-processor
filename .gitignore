@@ -1,0 +1,88 @@
+# ====================
+# Python
+# ====================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.dylib
+*.exe
+
+# ====================
+# FastAPI / Uvicorn
+# ====================
+
+# Logs
+*.log
+logs/
+*.tmp
+
+# Uvicorn reload artifacts
+*.reload
+
+# ====================
+# OS / Editor Crap
+# ====================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ====================
+# Testing / Temp Files
+# ====================
+
+*.csv
+test_*.csv
+tests/tmp/
+tmp/
+temp/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ====================
+# Distribution / Packaging
+# ====================
+
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ====================
+# Local data
+# ====================
+
+mnt/
+data/
+*.db

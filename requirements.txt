@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+httpx==0.24.1
+pydantic==1.10.11
+pytest==7.4.0
+respx==0.20.0
+python-multipart==0.0.6
