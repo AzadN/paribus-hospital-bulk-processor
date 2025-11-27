@@ -11,7 +11,6 @@ This repository contains a production-minded FastAPI implementation for the Pari
 - `Dockerfile`, `docker-compose.yml`
 - `requirements.txt`
 - `DEPLOYMENT.md` - instructions for deploying to Render
-- `GIT_INIT.sh` - commands to initialize a git repo with meaningful commits
 - Original assignment PDF included for reference:
   - `Senior_Python_Developer_Assignment_Paribus.pdf`
 
